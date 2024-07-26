@@ -1,9 +1,9 @@
 /******* Customized Bootstrap ********/
 
-$primary: #00B074;
-$secondary: #2B9BFF;
-$light: #EFFDF5;
-$dark: #2B3940;
+$primary: #678cec;
+$secondary: #2b9bff;
+$light: #effdf5;
+$dark: #2b3940;
 
 $font-family-base: 'Heebo', sans-serif;
 
@@ -27,4 +27,4 @@ $link-decoration: none;
 
 $enable-negative-margins: true;
 
-@import "bootstrap/scss/bootstrap";
+@import 'bootstrap/scss/bootstrap';
